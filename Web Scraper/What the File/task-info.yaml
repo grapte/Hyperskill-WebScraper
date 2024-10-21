@@ -1,0 +1,24 @@
+type: edu
+custom_name: What the File?
+files:
+  - name: scraper.py
+    visible: true
+    learner_created: false
+  - name: test/__init__.py
+    visible: false
+    learner_created: false
+  - name: test/tests.py
+    visible: false
+    learner_created: false
+  - name: tests.py
+    visible: false
+    learner_created: false
+  - name: source.html
+    visible: true
+    learner_created: true
+feedback_link: https://hyperskill.org/learn/step/11757#comment
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Mon, 14 Oct 2024 03:45:39 UTC"
+record: 3
