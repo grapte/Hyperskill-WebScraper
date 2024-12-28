@@ -1,2 +1,21 @@
-.idea
 Topics
+.DS_Store
+__pycache__/
+*.py[cod]
+
+# course config files
+*.yaml
+
+# gradle
+.gradle/
+build
+
+
+# idea config
+.idea
+
+# old stages
+/Web Scraper/*
+!/Web Scraper/task/
+/Web Scraper/task/*
+!/Web Scraper/task/scraper.py
